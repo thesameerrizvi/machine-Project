@@ -9,3 +9,14 @@ Insightful statistics such as average ratings, price trends, and common cuisines
 All tasks are fully automated through Python scripts.
 The project provides clear outputs including CSV files, plots, and model files.
 This repository serves as a complete ML workflow example for restaurant analytics.
+
+Predict Restaurant Ratings: Built regression models to predict restaurant ratings based on features using algorithms like Linear Regression and Decision Tree.
+
+Restaurant Recommendation System: Designed a content-based filtering recommendation engine based on user preferences.
+
+Cuisine Classification: Implemented classification algorithms (e.g., Logistic Regression, Random Forest) to classify restaurants by cuisine type.
+
+Performed data preprocessing, feature encoding, model evaluation, and data visualization.
+
+Focus Areas: Data preprocessing, feature engineering, regression, classification, and model evaluation.
+#This is a all the works#
